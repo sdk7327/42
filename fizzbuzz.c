@@ -2,6 +2,7 @@
 
 int	main(void)
 {
+	printf("0\n");
 	int i = 1;
 
 	while (i <= 100)
